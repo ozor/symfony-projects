@@ -1,1 +1,1 @@
-# pieces-of-symfony
+# Pieces of Symfony

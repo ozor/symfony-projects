@@ -1,0 +1,11 @@
+
+.idea
+.env
+.env.local
+.env.local.php
+.env.*.local
+config/secrets/prod/prod.decrypt.private.php
+public/bundles/
+projects/guestbook/var/
+vendor/
+
